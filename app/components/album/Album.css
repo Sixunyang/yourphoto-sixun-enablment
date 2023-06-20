@@ -1,0 +1,10 @@
+.photos {
+  border-top: 1px solid rgb(200, 198, 198);
+  padding-top: 10px;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}

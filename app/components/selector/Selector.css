@@ -1,0 +1,24 @@
+.selector {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.selector .album {
+  width: 80px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: rgba(187, 187, 187, 0.3);
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+}
+.selector .liked {
+  width: 80px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  line-height: 50px;
+  color: grey;
+  cursor: pointer;
+}
